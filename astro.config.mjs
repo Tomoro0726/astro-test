@@ -7,4 +7,6 @@ export default defineConfig({
     format: "file",
     assets: "_custom",
   },
+  base: "/astro-test",
+  site: "https://tomoro0726.github.io",
 });
